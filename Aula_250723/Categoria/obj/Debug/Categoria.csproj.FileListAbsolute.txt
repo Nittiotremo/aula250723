@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Aula_250723\Categoria\bin\Debug\Categoria.exe.config
+C:\Users\User\source\repos\Aula_250723\Categoria\bin\Debug\Categoria.exe
+C:\Users\User\source\repos\Aula_250723\Categoria\bin\Debug\Categoria.pdb
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.FrmCategoria.resources
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.Properties.Resources.resources
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.exe
+C:\Users\User\source\repos\Aula_250723\Categoria\obj\Debug\Categoria.pdb
